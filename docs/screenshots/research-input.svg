@@ -1,0 +1,38 @@
+<svg width="1600" height="960" viewBox="0 0 1600 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="960" fill="#071B2B"/>
+  <rect width="1600" height="960" fill="url(#paint0_radial)"/>
+
+  <g opacity="0.95">
+    <rect x="90" y="70" width="64" height="64" rx="18" fill="#38BDF8"/>
+    <circle cx="122" cy="102" r="20" stroke="#0E1E2A" stroke-width="4"/>
+    <path d="M117 95V109M109 102H125" stroke="#0E1E2A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M122 81V88M122 116V123M104 93L109 98M135 98L130 93M104 111L109 106M135 106L130 111" stroke="#0E1E2A" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <text x="180" y="114" fill="#E5EEF8" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">ThoughtProcessor</text>
+  <text x="184" y="168" fill="#A8BACB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="400">Autonomous Technical Research Agent</text>
+
+  <g>
+    <rect x="90" y="270" width="1420" height="140" rx="28" fill="#222F3D" stroke="#4B647B" stroke-width="2"/>
+    <text x="130" y="352" fill="#D5E1ED" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="500">agent workflow</text>
+    <g transform="translate(1260 294)">
+      <circle cx="52" cy="42" r="28" stroke="#081C2A" stroke-width="4" fill="none"/>
+      <circle cx="52" cy="42" r="13" stroke="#081C2A" stroke-width="4" fill="none"/>
+      <path d="M76 66L96 86" stroke="#081C2A" stroke-width="5" stroke-linecap="round"/>
+    </g>
+    <rect x="1230" y="303" width="244" height="72" rx="18" fill="#60D1F7"/>
+    <text x="1312" y="350" fill="#0A1826" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Research</text>
+  </g>
+
+  <g opacity="0.25">
+    <rect x="330" y="520" width="500" height="260" rx="20" fill="#1A2B3D"/>
+    <rect x="890" y="520" width="500" height="260" rx="20" fill="#1B2E40"/>
+  </g>
+
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 480) rotate(90) scale(760 1400)">
+      <stop stop-color="#0A1F31"/>
+      <stop offset="1" stop-color="#071B2B"/>
+    </radialGradient>
+  </defs>
+</svg>
