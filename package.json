@@ -9,6 +9,7 @@
     "build": "npx tsc",
     "install-all": "npm install && cd frontend && npm install"
   },
+  "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.23.0",
     "cors": "^2.8.5",
